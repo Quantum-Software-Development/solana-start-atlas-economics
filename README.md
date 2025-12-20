@@ -24,6 +24,39 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 
 
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+## Seeker
+
+<br>
+
+##### <p align="center">   [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
+
+<br>
+
+
+https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
+
+
+📺 Demo
+
+
+> [!TIP]
+> 
+> * [Repo]()  ᓚᘏᗢ  <br>
+> * [KeyChai Code]() 𓋹 
+>  <br>
+>
+
+
+
+
 
 
 <br><br>
@@ -48,16 +81,6 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 
 
 
-## Seeker
-
-<br>
-
-##### <p align="center">   [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
-
-<br>
-
-
-https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 
 
 
