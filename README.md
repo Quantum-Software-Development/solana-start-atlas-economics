@@ -9,10 +9,7 @@
 
 https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 
-<br>
-
 ##### [SEEKER DESCENTALIZED APP PHONE] - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
-
 
 
 <br><br>
