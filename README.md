@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [**Blueshift**](https://stake.blueshift.gg/en)
 > * [Blueshift **Agentic Hackathon**](https://agentic-hackathon.blueshift.gg/)
 > * [Blueshift **Learning**](https://learn.blueshift.gg/en)
-> * [Blueshift **Agentic Hackathon**]()
+> * [[Blueshift **Anchor Escrow](https://learn.blueshift.gg/en/challenges/anchor-escrow)
 > * [XXX]()
 > * [XXX]()
 > * [XXX]()
