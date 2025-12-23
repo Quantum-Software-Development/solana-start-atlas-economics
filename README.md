@@ -67,8 +67,8 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [Blueshift **Anchor Escrow**](https://learn.blueshift.gg/en/challenges/anchor-escrow)
 > * [**Matrica**](https://matrica.io/home)
 > * [Z.AI - **Top-Tier on the Code Arena leaderboard**](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=aitmpl.com&utm_medium=banner&utm_campaign=partnership&popup=false)
-> * [Z.AI - **Chat**](https://z.ai/chat)
-> * [XXX]()
+> * [Z.AI Chat - **Inspiring AGI to Benefit Humanity**](https://z.ai/chat)
+> * [**Dissonance** - Harmonic Solana Block Explorer 𓏴𓏵]()
 > * [XXX]()
 > <br>
 > 
