@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [Stack **Exchange**](https://stackexchange.com/)
 > * [Solana **Developers** - A manual for joining the Solana ecosystem](https://solana.com/developers)
 > * [**Blueshift**](https://stake.blueshift.gg/en)
-> * [Blueshift **Agentic Hackathon**]()
+> * [Blueshift **Agentic Hackathon**](https://agentic-hackathon.blueshift.gg/)
 > * [XXX]()
 > * [XXX]()
 > * [XXX]()
