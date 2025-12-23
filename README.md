@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [Blueshift **Agentic Hackathon**](https://agentic-hackathon.blueshift.gg/)
 > * [Blueshift **Learning**](https://learn.blueshift.gg/en)
 > * [Blueshift **Anchor Escrow**](https://learn.blueshift.gg/en/challenges/anchor-escrow)
-> * [XXX]()
+> * [**Matrica**](https://matrica.io/home)
 > * [XXX]()
 > * [XXX]()
 > * [XXX]()
