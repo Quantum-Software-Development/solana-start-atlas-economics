@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 >  <br>
 >
 > * [Stack **Exchange**](https://stackexchange.com/)
-> * [XXX]()
+> * [Solana **Developers** - A manual for joining the Solana ecosystem](https://solana.com/developers)
 > * [XXX]()
 > * [XXX]()
 > * [XXX]()
