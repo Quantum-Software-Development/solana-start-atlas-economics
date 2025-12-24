@@ -215,3 +215,36 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 <br><br>
 <br><br>
 <br><br>
+
+
+
+
+<br><br>
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+
+
+#
+
+###### <p align="center"> Copyright © 2026 Quantum Software Development. <br> Code released under the [MIT License](LICENSE). <br> <i>This is an independent project and is not affiliated with the Solana Foundation.</i>
+
