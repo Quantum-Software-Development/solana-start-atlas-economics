@@ -39,7 +39,7 @@
 
 
 
-
+<!--
 ====//=======
 
 <br><br>
@@ -180,14 +180,7 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 ## [**Blueshift**]() - [***Solana Agentic Hackathon***](https://agentic-hackathon.blueshift.gg/)
 
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
-
+-->
 
 
 
