@@ -28,7 +28,7 @@ Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development
   <br/>
   Built on [Solana]().
   <br/>
-  [Music](): “DO IT LIKE THAT” — Epshy
+  [Music](): “DO IT LIKE THAT” by Epshy
   <br/>
   [Video]() by Fabi⚡️
 </p>
