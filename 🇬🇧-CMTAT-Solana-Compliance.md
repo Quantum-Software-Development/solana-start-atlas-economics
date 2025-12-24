@@ -3,7 +3,7 @@
 # CMTAT Solana Specification v1.0.0
 
 
-[**Document**]()
+[**Document**](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ff78c94c220f10b6979b8175afe058145359cb57/CMTAT%20Solana%20Specification%20v1.0.0.pdf)
 
 [**Reference Repository:**](https://github.com/CMTA/CMTAT-Solana)
 
@@ -72,6 +72,6 @@ This specification explains how CMTAT’s required and optional features can be 
 Explore the full specification and examples on GitHub:  
 👉 **https://github.com/CMTA/CMTAT-Solana**
 
----
+<br>
 
-*CMTA — Building open standards for compliant digital securities.*
+> *CMTA — Building open standards for compliant digital securities.*
