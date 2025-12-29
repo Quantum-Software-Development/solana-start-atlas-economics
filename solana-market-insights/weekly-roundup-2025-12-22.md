@@ -28,9 +28,4 @@ stablecoin products launched.
 
 This marks the final weekly market snapshot of the year.
 
-## 📊 Market Insights
 
-Weekly roundups tracking capital flows, RWAs,
-ETFs, and institutional activity on Solana.
-
-→ [Market Insights](./market-insights)
