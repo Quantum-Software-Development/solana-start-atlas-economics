@@ -5,12 +5,14 @@
 
 <!-- START HEADER -->
 
-<br><br>
+<br><br><br>
+
 
 # <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷 🇬🇧  
 ### <p align="center"> ***Economics, Mobile, Agents & Post‑Quantum Security***
 
-<br><br>
+
+<br><br><br>
 
 <!-- Freedom of Speeh 
 <br><br>
@@ -22,7 +24,7 @@
 -->
 
 
-<br>
+<br><br>
 
 
 
