@@ -83,6 +83,21 @@
 - [Media Access — Play or Download Options](#media-access-play-or-download-ptions)
 
 
+
+
+================================111
+
+
+##  Market Insights
+
+Weekly roundups tracking capital flows, RWAs,
+ETFs, and institutional activity on Solana.
+
+→ [Market Insights](./market-insights)
+
+================================111
+
+
 <br><br>
 
 ━━━ 🚧 BUILDING IN PROGRESS 🚧 ━━━
